@@ -4,7 +4,6 @@ body {
   background-repeat: no-repeat;
   text-align: center;
   font-family: Helvetica;
-  font-size: 11px;
   color: white;
   background-color: dimgray;
 }
@@ -28,4 +27,7 @@ h3 {
 nav li {
   font-size: 18px;
   list-style-type: none;
+}
+p {
+  font-size: 14px;
 }
